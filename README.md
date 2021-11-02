@@ -1,0 +1,2 @@
+# VanillaJS
+Use Vanilla JavaScript
