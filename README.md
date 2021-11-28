@@ -1,2 +1,7 @@
 # VanillaJS
-Use Vanilla JavaScript
+### Use Vanilla JavaScript (modules)
+- Modal
+- Carousel slider
+- ChromeApp
+  - Clock - setInterval
+  
