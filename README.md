@@ -3,5 +3,7 @@
 - Modal
 - Carousel slider
 - ChromeApp
-  - Clock - setInterval
-  
+  - Clock
+  - Quotes & Background (random)
+  - Todo List
+  - Weather API
